@@ -1,2 +1,2 @@
 # InventoryGrid
- Inventory grid that supports icons of different sizes.
+A simple inventory grid for Unity that supports icons of different sizes.
